@@ -692,7 +692,7 @@
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/code</string>
+	<string>~/code/iterm-settings</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{850, 481}</string>
 	<key>NSQuotedKeystrokeBinding</key>
@@ -1405,7 +1405,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/levivoelz/code</string>
+	<string>/Users/levivoelz/code/iterm-settings</string>
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
